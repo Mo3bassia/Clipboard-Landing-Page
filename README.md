@@ -4,7 +4,7 @@
 
 ## Used Technologies
 
-- HTML, CSS, Javascript and Scrollreveal for animation
+- HTML, CSS and Scrollreveal for animation
 
 ## Challenge Link
 
